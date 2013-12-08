@@ -1,0 +1,59 @@
+.qa_bu_title{
+
+	font-weight: bold;
+}
+
+.qa_bu_content{
+
+	border: thin gray solid;
+	padding: 5px;
+	color:gray;
+	width: 600px;
+}
+
+div[id^='p']{
+	margin-top:20px;
+}
+
+.postSuccess{
+	color: green;
+	font-size: 1.5em;
+	margin-left: 10px;
+}
+
+.postDelete{
+	color: red;
+	font-size: 1.5em;
+	margin-left: 10px;
+}
+
+button{
+	background: none repeat scroll 0 0 #0179B5;
+    border: 1px solid #004566;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px 0 rgba(255, 255, 255, 0.5) inset;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14px;
+    padding: 2px 8px 8px;
+}
+
+.cus{
+	margin: 10px;
+}
+.pB{
+	margin: 0px 10px 10px 0px;
+}
+
+.nci{
+	margin-left: 10px;
+}
+
+td input[type=checkbox] {position: relative; top:20px;}
+
+.spaceHack{
+	color: white;
+	margin-top:28px;
+}
